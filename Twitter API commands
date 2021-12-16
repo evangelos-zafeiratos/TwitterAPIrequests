@@ -1,0 +1,3 @@
+curl --request GET "https://api.twitter.com/2/tweets/search/recent?query=from:twitterdev" --header "Authorization: Bearer AAAAAAAAAAAAAAAAAAAAACf3WwEAAAAAvv4XMoPp04MMvJ3ONGzZDt6ASUo%3DrKjTYZ7mPQxdUVxTpsVLgDx0ZRZ66VSx03IoVSuFvXJAOF2tRi"
+
+curl --request GET "https://api.twitter.com/1.1/trends/available.json" --header "Authorization: Bearer AAAAAAAAAAAAAAAAAAAAACf3WwEAAAAAvv4XMoPp04MMvJ3ONGzZDt6ASUo%3DrKjTYZ7mPQxdUVxTpsVLgDx0ZRZ66VSx03IoVSuFvXJAOF2tRi"
